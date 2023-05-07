@@ -1,4 +1,4 @@
-# APLIKASI KEDAI KOPI ###part 2
+# APLIKASI KEDAI KOPI - part 2
 Aplikasi Kedai Kopi ini adalah tugas dari mata kuliah OOP, penulisan kode program berbeda dengan program kedai kopi sebelumnya. Pada program kali ini terdapat tambahan class Diskon dengan 5 tingkatan diskon.
 ## Penjelasan Program
 #### Pembuatan Class Pesanan :
