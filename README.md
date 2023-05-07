@@ -78,7 +78,7 @@ def getPPN (self) :
 ```
 
 ### Pembuatan Class Diskon
-kelas diskon adalah turunan dari kelas Pelanggan, isi dari kelas diskon adalah perhitungan diskon. Diskon dibagi dalam 5 tingkatan, kode lengkap bisa dilihat di file.
+kelas diskon adalah turunan dari kelas Pesanan, isi dari kelas diskon adalah perhitungan diskon. Diskon dibagi dalam 5 tingkatan, kode lengkap bisa dilihat di file.
 ```sh
 class Diskon (Pesanan) :
     def __init__(self, menu, jumlahPesanan):
